@@ -1,0 +1,107 @@
+player_id: Unique identifier for each player
+player_url: URL or link associated with the player
+fifa_version: Version of FIFA game or dataset
+fifa_update: Update number or version within the FIFA game or dataset
+fifa_update_date: Date of the FIFA update
+short_name: Short name or abbreviated name of the player
+long_name: Full name of the player
+player_positions: Positions played by the player
+overall: Overall rating or score of the player
+potential: Potential rating or score of the player
+value_eur: Value of the player in Euros
+wage_eur: Player's wage in Euros
+age: Age of the player
+dob: Date of birth of the player
+height_cm: Height of the player in centimeters
+weight_kg: Weight of the player in kilograms
+league_id: Unique identifier for the league the player belongs to
+league_name: Name of the league the player belongs to
+league_level: Level or division of the league
+club_team_id: Unique identifier for the club team the player belongs to
+club_name: Name of the club team the player belongs to
+club_position: Position played by the player in the club team
+club_jersey_number: Jersey number of the player in the club team
+club_loaned_from: Name of the club the player is loaned from (if applicable)
+club_joined_date: Date when the player joined the club team
+club_contract_valid_until_year: Year until which the player's contract with the club is valid
+nationality_id: Unique identifier for the player's nationality
+nationality_name: Nationality or country name of the player
+nation_team_id: Unique identifier for the national team the player represents
+nation_position: Position played by the player in the national team
+nation_jersey_number: Jersey number of the player in the national team
+preferred_foot: Player's preferred foot (left or right)
+weak_foot: Rating or score for the player's weaker foot ability
+skill_moves: Rating or score for the player's skill moves ability
+international_reputation: Rating or score for the player's international reputation
+work_rate: Work rate or work ethic of the player
+body_type: Body type or physique of the player
+real_face: Indicator of whether the player has a real face representation in the game
+release_clause_eur: Release clause value of the player in Euros
+player_tags: Tags associated with the player
+player_traits: Traits or special abilities possessed by the player
+pace: Rating or score for the player's pace attribute
+shooting: Rating or score for the player's shooting ability
+passing: Rating or score for the player's passing ability
+dribbling: Rating or score for the player's dribbling ability
+defending: Rating or score for the player's defending ability
+physic: Rating or score for the player's physical attributes
+attacking_crossing: Rating or score for the player's crossing ability in attacking situations
+attacking_finishing: Rating or score for the player's finishing ability in attacking situations
+attacking_heading_accuracy: Rating or score for the player's heading accuracy in attacking situations
+attacking_short_passing: Rating or score for the player's short passing ability in attacking situations
+attacking_volleys: Rating or score for the player's volleying ability in attacking situations
+skill_dribbling: Rating or score for the player's dribbling skill
+skill_curve: Rating or score for the player's curve skill
+skill_fk_accuracy
+skill_long_passing: The long passing skill rating of the player.
+skill_ball_control: The ball control skill rating of the player.
+movement_acceleration: The acceleration rating of the player.
+movement_sprint_speed: The sprint speed rating of the player.
+movement_agility: The agility rating of the player.
+movement_reactions: The reactions rating of the player.
+movement_balance: The balance rating of the player.
+power_shot_power: The shot power rating of the player.
+power_jumping: The jumping rating of the player.
+power_stamina: The stamina rating of the player.
+power_strength: The strength rating of the player.
+power_long_shots: The long shots rating of the player.
+mentality_aggression: The aggression rating of the player.
+mentality_interceptions: The interceptions rating of the player.
+mentality_positioning: The positioning rating of the player.
+mentality_vision: The vision rating of the player.
+mentality_penalties: The penalties rating of the player.
+mentality_composure: The composure rating of the player.
+defending_marking_awareness: The marking awareness rating of the player in defending.
+defending_standing_tackle: The standing tackle rating of the player.
+defending_sliding_tackle: The sliding tackle rating of the player.
+goalkeeping_diving: The diving rating of the player in goalkeeping.
+goalkeeping_handling: The handling rating of the player in goalkeeping.
+goalkeeping_kicking: The kicking rating of the player in goalkeeping.
+goalkeeping_positioning: The positioning rating of the player in goalkeeping.
+goalkeeping_reflexes: The reflexes rating of the player in goalkeeping.
+goalkeeping_speed: The speed rating of the player in goalkeeping.
+ls: The rating of the player's left striker position.
+st: The rating of the player's striker position.
+rs: The rating of the player's right striker position.
+lw: The rating of the player's left winger position.
+lf: The rating of the player's left forward position.
+cf: The rating of the player's center forward position.
+rf: The rating of the player's right forward position.
+rw: The rating of the player's right winger position.
+lam: The rating of the player's left attacking midfielder position.
+cam: The rating of the player's center attacking midfielder position.
+ram: The rating of the player's right attacking midfielder position.
+lm: The rating of the player's left midfielder position.
+lcm: The rating of the player's left center midfielder position.
+cm: The rating of the player's center midfielder position.
+rcm: The rating of the player's right center midfielder position.
+rm: The rating of the player's right midfielder position.
+lwb: The rating of the player's left wing-back position.
+ldm: The rating of the player's left defensive midfielder position.
+cdm: The rating of the player's center defensive midfielder position.
+rdm: The rating of the player's right defensive midfielder position.
+rwb: The rating of the player's right wing-back position.
+lb: The rating of the player's left-back position.
+lcb: The rating of the player's left center-back position.
+cb: The rating of the player's center-back position.
+rcb: The rating
